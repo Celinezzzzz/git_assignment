@@ -24,3 +24,9 @@ d. Describe the steps to add a collaborator to a repository (share write permiss
 3. Click "Add people" and search by the username, full name, or email
 4. Select the correct user from the dropdown
 5. Choose the "Write" permission and click "Add [username] to this repository"
+
+e. What is the difference between git and GitHub?
+Git is a distributed version control system for tracking changes in code during software development process. GitHub is a web-based hosting services for Git repos with collaboration features.
+
+f. What does git diff do?
+Git diff allows users to preview changes before committing.
