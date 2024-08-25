@@ -26,7 +26,17 @@ d. Describe the steps to add a collaborator to a repository (share write permiss
 5. Choose the "Write" permission and click "Add [username] to this repository"
 
 e. What is the difference between git and GitHub?
+
 Git is a distributed version control system for tracking changes in code during software development process. GitHub is a web-based hosting services for Git repos with collaboration features.
 
 f. What does git diff do?
+
 Git diff allows users to preview changes before committing.
+
+g. What is the main branch?
+
+The main branch is the primary branch in a git Repo, which serves as the base for development work.
+
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+No, we should create a seperate feature branch to make changes and open pull request for review and approval before merging into main branch.
